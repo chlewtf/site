@@ -54,7 +54,7 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Hi, I am Chle (a.k.a Vales) a software and web developer.
+                Hi, I am Chle a software and web developer.
               </p>
             </div>
           </div>
